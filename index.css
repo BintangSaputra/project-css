@@ -40,6 +40,7 @@ body {
 .avatar {
   display: flex;
   justify-content: center;
+  margin-bottom: 0px;
 }
 
 .avatar img {
@@ -50,7 +51,7 @@ body {
 .header-name {
   display: block;
   margin-block-start: 0px;
-  font-size: 50px;
+  font-size: 45px;
   margin-top: 0px;
   margin-bottom: 5px;
   color: white;
