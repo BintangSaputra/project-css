@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  display: flex;
+  border-top: 10px solid #f5f5f5;
+}
+
+.navigation {
+  padding: 10px 0;
+}
