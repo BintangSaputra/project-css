@@ -34,3 +34,8 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.header-name {
+  display: flex;
+  justify-content: center;
+}
