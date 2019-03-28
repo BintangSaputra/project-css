@@ -17,8 +17,10 @@ body {
 }
 
 .navigation-link {
-  padding: 10px;
-  font-size: 20px;
+  padding: 30px;
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
 }
 
 .background {
