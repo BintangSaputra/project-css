@@ -342,6 +342,8 @@ span.country {
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  margin-top: 70px;
+  margin-bottom: 176px;
 }
 
 .linkedin {
@@ -357,4 +359,26 @@ span.country {
 
 .behance {
   height: 100px;
+}
+
+.footer {
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0683aa;
+  height: 100px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  color: white;
+}
+
+.source {
+  align-items: center;
+  margin-bottom: 0px;
+}
+
+.copyright {
+  margin-bottom: 0px;
+  margin-top: 10px;
 }
