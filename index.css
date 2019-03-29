@@ -98,7 +98,7 @@ span.country {
   display: block;
   margin-top: 80px;
   margin-left: 80px;
-  font-size: 60px;
+  font-size: 40px;
 }
 
 .landing-page {
@@ -109,7 +109,7 @@ span.country {
 }
 
 .landing-page img {
-  height: 300px;
+  height: 200px;
 }
 
 .project-1 {
@@ -117,24 +117,24 @@ span.country {
   flex-direction: column;
   margin-left: 20px;
   margin-top: 0px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .project-1-desc {
   margin-top: 0px;
   margin-left: 0px;
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .plan-website {
   display: flex;
   justify-content: right;
-  margin-left: 580px;
+  margin-left: 100px;
   margin-top: 0px;
 }
 
 .plan-website img {
-  height: 400px;
+  height: 150px;
 }
 
 .project-2 {
@@ -142,13 +142,13 @@ span.country {
   flex-direction: column;
   margin-left: 20px;
   margin-top: 0px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .project-2-desc {
   margin-top: 0px;
   margin-left: 0px;
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .audio-book {
@@ -159,7 +159,7 @@ span.country {
 }
 
 .audio-book img {
-  height: 400px;
+  height: 250px;
 }
 
 .project-3 {
@@ -167,38 +167,38 @@ span.country {
   flex-direction: column;
   margin-left: 20px;
   margin-top: 0px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .project-3-desc {
   margin-top: 0px;
   margin-left: 0px;
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .builder {
   display: flex;
   justify-content: right;
-  margin-left: 250px;
+  margin-left: 200px;
   margin-top: 0px;
 }
 
 .builder img {
-  height: 300px;
+  height: 200px;
 }
 
 .project-4 {
   display: flex;
   flex-direction: column;
-  margin-left: 20px;
+  margin-left: 10px;
   margin-top: 0px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .project-4-desc {
   margin-top: 0px;
   margin-left: 0px;
-  font-size: 18px;
+  font-size: 13px;
 }
 
 .fullstack {
@@ -209,13 +209,13 @@ span.country {
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: #ff7e47;
-  height: 300px;
-  font-size: 40px;
+  height: 200px;
+  font-size: 30px;
   color: white;
 }
 
 .fullstack-content {
-  font-size: 20px;
+  font-size: 15px;
   color: black;
   font-weight: lighter;
 }
@@ -228,13 +228,13 @@ span.country {
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: #38aab4;
-  height: 320px;
-  font-size: 40px;
+  height: 200px;
+  font-size: 30px;
   color: white;
 }
 
 .marketing-content {
-  font-size: 20px;
+  font-size: 15px;
   color: black;
   font-weight: lighter;
 }
@@ -247,13 +247,13 @@ span.country {
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: #009d66;
-  height: 310px;
-  font-size: 40px;
+  height: 191px;
+  font-size: 30px;
   color: white;
 }
 
 .graphology-content {
-  font-size: 20px;
+  font-size: 15px;
   color: black;
   font-weight: lighter;
 }
@@ -262,7 +262,7 @@ span.country {
   display: flex;
   justify-content: center;
   padding-top: 40px;
-  font-size: 35px;
+  font-size: 20px;
 }
 
 .arts-content {
@@ -276,24 +276,24 @@ span.country {
 }
 
 .foto8 {
-  height: 300px;
+  height: 200px;
 }
 
 .foto9 {
-  height: 300px;
+  height: 200px;
 }
 
 .foto11 {
-  height: 300px;
+  height: 200px;
 }
 
 .foto19 {
-  height: 300px;
+  height: 200px;
 }
 
 .foto16 {
-  height: 300px;
-  width: 480px;
+  height: 200px;
+  width: 310px;
 }
 
 .contactme {
@@ -302,9 +302,10 @@ span.country {
 }
 
 .invitation {
-  margin-top: 200px;
+  margin-top: 100px;
   margin-left: 400px;
   margin-bottom: 5px;
+  font-size: 15px;
   font-weight: lighter;
   text-align: left;
 }
@@ -313,29 +314,34 @@ span.country {
   margin-top: 0px;
   margin-left: 400px;
   font-weight: lighter;
+  font-size: 15px;
 }
 
 .available {
   margin-top: 40px;
   margin-left: 400px;
   font-weight: lighter;
+  font-size: 15px;
 }
 
 .fullname {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-left: 400px;
+  font-size: 15px;
 }
 
 .email-address {
   margin-top: 20px;
   margin-left: 400px;
   font-weight: lighter;
+  font-size: 15px;
 }
 
 .phone {
   margin-top: 40px;
   margin-left: 400px;
   font-weight: lighter;
+  font-size: 15px;
 }
 
 .link-icon {
@@ -343,22 +349,22 @@ span.country {
   justify-content: center;
   align-items: flex-end;
   margin-top: 70px;
-  margin-bottom: 176px;
+  margin-bottom: 122px;
 }
 
 .linkedin {
-  height: 100px;
+  height: 80px;
 }
 
 .github {
-  height: 100px;
+  height: 80px;
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 50px;
 }
 
 .behance {
-  height: 100px;
+  height: 80px;
 }
 
 .footer {
@@ -366,10 +372,10 @@ span.country {
   flex-direction: column;
   align-items: center;
   background-color: #0683aa;
-  height: 100px;
+  height: 50px;
   text-align: center;
-  padding-top: 10px;
-  font-size: 20px;
+  padding-top: 5px;
+  font-size: 10px;
   color: white;
 }
 
@@ -380,5 +386,5 @@ span.country {
 
 .copyright {
   margin-bottom: 0px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
