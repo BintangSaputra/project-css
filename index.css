@@ -200,3 +200,60 @@ span.country {
   margin-left: 0px;
   font-size: 18px;
 }
+
+.fullstack {
+  display: block;
+  margin-left: 0px;
+  padding-top: 50px;
+  padding-left: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #ff7e47;
+  height: 300px;
+  font-size: 40px;
+  color: white;
+}
+
+.fullstack-content {
+  font-size: 20px;
+  color: black;
+  font-weight: lighter;
+}
+
+.marketing {
+  display: block;
+  margin-left: 0px;
+  padding-top: 50px;
+  padding-left: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #38aab4;
+  height: 320px;
+  font-size: 40px;
+  color: white;
+}
+
+.marketing-content {
+  font-size: 20px;
+  color: black;
+  font-weight: lighter;
+}
+
+.graphology {
+  display: block;
+  margin-left: 0px;
+  padding-top: 50px;
+  padding-left: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #009d66;
+  height: 310px;
+  font-size: 40px;
+  color: white;
+}
+
+.graphology-content {
+  font-size: 20px;
+  color: black;
+  font-weight: lighter;
+}
