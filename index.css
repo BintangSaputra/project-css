@@ -25,7 +25,7 @@ body {
 
 .background {
   background: url(images/backgrounds/background-home.jpg);
-  min-height: 1100px;
+  min-height: 1080px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -82,4 +82,21 @@ span.country {
   font-size: 30px;
   color: #ff7e47;
   font-weight: lighter;
+}
+
+.background-project {
+  background-color: #c4c4c4;
+}
+
+.header-project {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.project {
+  display: block;
+  margin-top: 80px;
+  margin-left: 80px;
+  font-size: 60px;
 }
