@@ -271,6 +271,8 @@ span.country {
 
 .arts-photo {
   align-items: flex-start;
+  justify-content: center;
+  margin-left: 5px;
 }
 
 .foto8 {
@@ -287,4 +289,9 @@ span.country {
 
 .foto19 {
   height: 300px;
+}
+
+.foto16 {
+  height: 300px;
+  width: 480px;
 }
