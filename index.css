@@ -257,3 +257,34 @@ span.country {
   color: black;
   font-weight: lighter;
 }
+
+.title-arts {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  font-size: 35px;
+}
+
+.arts-content {
+  font-weight: lighter;
+}
+
+.arts-photo {
+  align-items: flex-start;
+}
+
+.foto8 {
+  height: 300px;
+}
+
+.foto9 {
+  height: 300px;
+}
+
+.foto11 {
+  height: 300px;
+}
+
+.foto19 {
+  height: 300px;
+}
