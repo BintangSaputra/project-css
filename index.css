@@ -295,3 +295,66 @@ span.country {
   height: 300px;
   width: 480px;
 }
+
+.contactme {
+  display: block;
+  justify-content: left;
+}
+
+.invitation {
+  margin-top: 200px;
+  margin-left: 400px;
+  margin-bottom: 5px;
+  font-weight: lighter;
+  text-align: left;
+}
+
+.please {
+  margin-top: 0px;
+  margin-left: 400px;
+  font-weight: lighter;
+}
+
+.available {
+  margin-top: 40px;
+  margin-left: 400px;
+  font-weight: lighter;
+}
+
+.fullname {
+  margin-top: 100px;
+  margin-left: 400px;
+}
+
+.email-address {
+  margin-top: 20px;
+  margin-left: 400px;
+  font-weight: lighter;
+}
+
+.phone {
+  margin-top: 40px;
+  margin-left: 400px;
+  font-weight: lighter;
+}
+
+.link-icon {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.linkedin {
+  height: 100px;
+}
+
+.github {
+  height: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 50px;
+}
+
+.behance {
+  height: 100px;
+}
