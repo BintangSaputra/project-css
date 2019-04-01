@@ -47,16 +47,18 @@ body {
 }
 
 .avatar img {
+  display: flex;
   margin-top: 300px;
   margin-bottom: 0px;
   margin: center;
-  height: 150px;
+  height: 20vh;
+  width: auto;
 }
 
 .header-name {
   display: block;
   margin-block-start: 0px;
-  font-size: 30px;
+  font-size: 3vh;
   margin-top: 0px;
   margin-bottom: 5px;
   color: white;
@@ -75,7 +77,7 @@ span.name {
 
 .header-title {
   margin-top: 0px;
-  font-size: 30px;
+  font-size: 3vh;
   margin-bottom: 10px;
   color: #ff7e47;
 }
@@ -86,7 +88,7 @@ span.country {
 
 .header-tools {
   margin-top: 10px;
-  font-size: 20px;
+  font-size: 2vh;
   color: #ff7e47;
   font-weight: lighter;
 }
