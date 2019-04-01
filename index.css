@@ -352,7 +352,7 @@ span.country {
   margin-top: 100px;
   margin-left: 400px;
   margin-bottom: 5px;
-  font-size: 15px;
+  font-size: 15pt;
   font-weight: lighter;
   text-align: left;
 }
@@ -361,57 +361,57 @@ span.country {
   margin-top: 0px;
   margin-left: 400px;
   font-weight: lighter;
-  font-size: 15px;
+  font-size: 15pt;
 }
 
 .available {
   margin-top: 40px;
   margin-left: 400px;
   font-weight: lighter;
-  font-size: 15px;
+  font-size: 15pt;
 }
 
 .fullname {
   margin-top: 50px;
   margin-left: 400px;
-  font-size: 15px;
+  font-size: 15pt;
 }
 
 .email-address {
   margin-top: 20px;
   margin-left: 400px;
   font-weight: lighter;
-  font-size: 15px;
+  font-size: 15pt;
 }
 
 .phone {
   margin-top: 40px;
   margin-left: 400px;
   font-weight: lighter;
-  font-size: 15px;
+  font-size: 15pt;
 }
 
 .link-icon {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  margin-top: 70px;
-  margin-bottom: 321px;
+  margin-top: 200px;
+  margin-bottom: 386px;
 }
 
 .linkedin {
-  height: 80px;
+  height: 8vh;
 }
 
 .github {
-  height: 80px;
+  height: 8vh;
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 50px;
 }
 
 .behance {
-  height: 80px;
+  height: 8vh;
 }
 
 .footer {
@@ -422,7 +422,7 @@ span.country {
   height: 50px;
   text-align: center;
   padding-top: 5px;
-  font-size: 10px;
+  font-size: 8pt;
   color: white;
 }
 
@@ -434,4 +434,35 @@ span.country {
 .copyright {
   margin-bottom: 0px;
   margin-top: 5px;
+}
+
+@media screen and (max-width: 600px) {
+  .invitation {
+    font-size: 10pt;
+    margin-left: 20px;
+  }
+  .please {
+    font-size: 10pt;
+    margin-left: 20px;
+  }
+  .available {
+    font-size: 10pt;
+    margin-left: 20px;
+  }
+  .fullname {
+    font-size: 10pt;
+    margin-left: 20px;
+  }
+  .email-address {
+    font-size: 10pt;
+    margin-left: 20px;
+  }
+  .phone {
+    font-size: 10pt;
+    margin-left: 20px;
+  }
+  .link-icon {
+    margin-top: 100px;
+    margin-bottom: 126px;
+  }
 }
