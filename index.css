@@ -107,7 +107,7 @@ span.country {
   display: block;
   margin-top: 80px;
   margin-left: 80px;
-  font-size: 40px;
+  font-size: 4vh;
 }
 
 .landing-page {
@@ -118,7 +118,8 @@ span.country {
 }
 
 .landing-page img {
-  height: 200px;
+  height: 20vh;
+  width: 35vh;
 }
 
 .project-1 {
@@ -126,7 +127,7 @@ span.country {
   flex-direction: column;
   margin-left: 20px;
   margin-top: 0px;
-  font-size: 15px;
+  font-size: 1vh;
 }
 
 .project-1-desc {
@@ -143,7 +144,8 @@ span.country {
 }
 
 .plan-website img {
-  height: 150px;
+  height: 20vh;
+  width: 35vh;
 }
 
 .project-2 {
@@ -271,7 +273,7 @@ span.country {
   display: flex;
   justify-content: center;
   padding-top: 40px;
-  font-size: 20px;
+  font-size: 2vh;
 }
 
 .arts-content {
@@ -285,24 +287,24 @@ span.country {
 }
 
 .foto8 {
-  height: 200px;
+  height: 20vh;
 }
 
 .foto9 {
-  height: 200px;
+  height: 20vh;
 }
 
 .foto11 {
-  height: 200px;
+  height: 20vh;
 }
 
 .foto19 {
-  height: 200px;
+  height: 20vh;
 }
 
 .foto16 {
-  height: 200px;
-  width: 310px;
+  height: 20vh;
+  width: 31vh;
 }
 
 .contactme {
