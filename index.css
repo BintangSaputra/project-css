@@ -276,11 +276,15 @@ span.country {
   font-size: 20pt;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
   .arts-content {
     height: 100%;
   }
+  .title-arts {
+    font-size: 10pt;
+  }
 }
+
 .arts-content {
   font-weight: lighter;
 }
