@@ -23,6 +23,13 @@ body {
   color: black;
 }
 
+@media screen and (max-width: 600px) {
+  .navigation {
+    float: none;
+    display: block;
+  }
+}
+
 .home {
   background: url(../images/backgrounds/background-home.jpg);
   background-image: url(../images/backgrounds/background-home.jpg);
@@ -226,13 +233,13 @@ span.country {
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: #ff7e47;
-  height: 200px;
+  height: 300px;
   font-size: 30px;
   color: white;
 }
 
 .fullstack-content {
-  font-size: 15px;
+  font-size: 20px;
   color: black;
   font-weight: lighter;
 }
@@ -245,13 +252,13 @@ span.country {
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: #38aab4;
-  height: 200px;
+  height: 300px;
   font-size: 30px;
   color: white;
 }
 
 .marketing-content {
-  font-size: 15px;
+  font-size: 20px;
   color: black;
   font-weight: lighter;
 }
@@ -264,13 +271,13 @@ span.country {
   margin-top: 0px;
   margin-bottom: 0px;
   background-color: #009d66;
-  height: 191px;
+  height: 300px;
   font-size: 30px;
   color: white;
 }
 
 .graphology-content {
-  font-size: 15px;
+  font-size: 20px;
   color: black;
   font-weight: lighter;
 }
@@ -278,18 +285,24 @@ span.country {
 @media screen and (max-width: 600px) {
   .fullstack {
     font-size: 15pt;
+    padding-left: 20px;
+    height: 150px;
   }
   .fullstack-content {
     font-size: 10pt;
   }
   .marketing {
     font-size: 15pt;
+    padding-left: 20px;
+    height: 150px;
   }
   .marketing-content {
     font-size: 10pt;
   }
   .graphology {
-    font-size: 10pt;
+    font-size: 15pt;
+    padding-left: 20px;
+    height: 150px;
   }
   .graphology-content {
     font-size: 10pt;
